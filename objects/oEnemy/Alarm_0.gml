@@ -1,0 +1,1 @@
+enemyCanShot=1;
